@@ -1,0 +1,64 @@
+# Permalinks
+permalink: pretty
+
+# File excludes
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Theme
+remote_theme: daviddarnes/alembic
+
+# Set plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-default-layout
+  - jekyll-feed
+  - jemoji
+  - jekyll-remote-theme
+
+# Setup
+title: "LIED UMR 8236 – B2C"
+description: Biologie et Biotechnologie des Champignons
+url: https://podo-b2c.github.io
+baseurl: ""
+lang: fr-FR
+logo: "/assets/logos/univ-paris.jpg"
+# google_analytics:    'UA-XXXXXXXX-1'
+
+favicons:
+  57: "/assets/logos/apple-icon-57x57.png"
+  60: "/assets/logos/apple-icon-60x60.png"
+  72: "/assets/logos/apple-icon-72x72.png"
+  76: "/assets/logos/apple-icon-76x76.png"
+  114: "/assets/logos/apple-icon-114x114.png"
+  120: "/assets/logos/apple-icon-120x120.png"
+  144: "/assets/logos/apple-icon-144x44.png"
+  152: "/assets/logos/apple-icon-152x152.png"
+  180: "/assets/logos/apple-icon-180x180.png"
+
+# Header nav
+navigation_header:
+  - title: Accueil
+    url: /
+  - title: Présentation
+    url: /membres/
+  - title: Recherche
+    url: /recherche/
+  - title: Publications
+    url: /publications/
+
+
+# Footer nav
+navigation_footer:
+  - title: "&#8682;"
+    url: "#top"
+
+# About/contact
+author: "Florence Leclerc"
+email: "florence.leclerc@u-paris.fr"
