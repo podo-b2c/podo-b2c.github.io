@@ -10,12 +10,13 @@ title: Composition de l'équipe
 - [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr), Maître de Conférences HDR (Université Paris Descartes)
   [CV court](/membres/gwenael)
 - [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr)
+  [CV court](/membres/herve)
 
 ## Doctorants
 
 - [Clara Ledoux](mailto:claraaledoux@gmail.com) (bourse doctorale MTCI, 2019-2022/co-direction B2C/DYCO: F. Chapeland-Leclerc/E. Herbert)
-- Ling SHEN (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
-- Huijuan WANG (bourse CSC, 2019-2023/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
+- [Ling SHEN](mailto:shen89101@163.com) (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
+- [Huijuan WANG](mailto:wanghuijuan120508@gmail.com) (bourse CSC, 2019-2023/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
 
 ## Anciens membres
 
