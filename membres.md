@@ -9,7 +9,7 @@ title: Composition de l'équipe
   [CV court](/membres/florence)
 - [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr), Maître de Conférences HDR (Université Paris Descartes)
   [CV court](/membres/gwenael)
-- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr)
+- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr) Maître de Conférences
   [CV court](/membres/herve)
 
 ## Doctorants
