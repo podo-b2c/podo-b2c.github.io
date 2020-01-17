@@ -6,7 +6,7 @@ title: Composition de l'équipe
 ## Equipe actuelle
 
 - [Florence Leclerc](mailto:florence.leclerc@parisdescartes.fr)
-- b
+- [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr)
 - c
 
 ## Anciens membres
