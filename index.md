@@ -14,4 +14,4 @@ texte en *italique* ou en **gras**
 
 ### toto
 
-![](static/img/Capture d’écran 2020-01-17 à 10.34.15.png)
+![](static/img/2020-01-17-10-34-15.png)
