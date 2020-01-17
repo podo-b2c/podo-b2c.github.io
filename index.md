@@ -11,3 +11,7 @@ Syntaxe Markdown : [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sh
 ### Sous-titre
 
 texte en *italique* ou en **gras**
+
+### toto
+
+![](static/img/reseau.jpg)
