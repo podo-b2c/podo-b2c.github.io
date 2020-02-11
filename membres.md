@@ -6,7 +6,7 @@ feature_image: "../static/img/reseau.jpg"
 
 ## Equipe actuelle
 
-- [Florence Leclerc](mailto:florence.leclerc@parisdescartes.fr), Maître de Conférences HDR (Université Paris Descartes)
+- [Florence Chapeland-Leclerc](mailto:florence.leclerc@parisdescartes.fr), Maître de Conférences HDR (Université Paris Descartes)
   [CV court](/membres/florence)
 - [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr), Maître de Conférences HDR (Université Paris Descartes)
   [CV court](/membres/gwenael)
