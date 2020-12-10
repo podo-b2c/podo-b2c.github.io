@@ -31,7 +31,7 @@ Au sein de l’équipe Biologie et Biotechnologie des champignons au LIED, je m�
 - Financement APESA (2019) 16 000€
 - Idex AAP Emergence « Hyphae Wide Web » (2019) 30 000€
 - Idex Centre des politiques de la Terre AAP « Meth'InTerE » (2020) 12 000€
-- MITI AAP Adaptation du vivant à son environnement « ACCRA » (2020) 4 400€
+- MITI CNRS AAP Adaptation du vivant à son environnement « ACCRA » (2020) 4 400€
 - INSIS CNRS AAP Ingénierie inspirée par la Nature « PhysNet » (2020) 11 600€
 - Renouvellement CNRS Défi Modélisation du Vivant (2020) 11 300€
 - Idex AAP Emergence « ANFIPA » (2021-22) 48 000€
