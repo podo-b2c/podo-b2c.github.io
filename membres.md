@@ -10,8 +10,11 @@ feature_image: "../static/img/reseau.jpg"
   [CV court](/membres/florence)
 - [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr), Maître de Conférences HDR (Université Paris Descartes)
   [CV court](/membres/gwenael)
-- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr) Maître de Conférences
+- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr), Maître de Conférences
   [CV court](/membres/herve)
+- [Eva Cabet](mailto:eva.cabet@u-paris.fr), Ingénieure de recherche
+  [CV court](/membres/eva)
+
 
 ## Doctorants
 
