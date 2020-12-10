@@ -27,9 +27,14 @@ Au sein de l’équipe Biologie et Biotechnologie des champignons au LIED, je m�
 ## Financements
 
 - Bourse Labex Mathématique Hadamard (2018) : accueil pendant 6 mois d’une mathématicienne dans l’équipe.
-- CNRS Défi Modélisation du Vivant (2019) 10 000 euros
-- Financement APESA (2019) 16 000 euros
-- Idex AAP Emergence « Hyphae Wide Web » (2020) 30 000 euros
+- CNRS Défi Modélisation du Vivant (2019) 10 000€
+- Financement APESA (2019) 16 000€
+- Idex AAP Emergence « Hyphae Wide Web » (2019) 30 000€
+- Idex Centre des politiques de la Terre AAP « Meth'InTerE » (2020) 12 000€
+- MITI AAP Adaptation du vivant à son environnement « ACCRA » (2020) 4 400€
+- INSIS CNRS AAP Ingénierie inspirée par la Nature « PhysNet » (2020) 11 600€
+- Renouvellement CNRS Défi Modélisation du Vivant (2020) 11 300€
+- Idex AAP Emergence « ANFIPA » (2021-22) 48 000€
 
 ## Enseignements
 
