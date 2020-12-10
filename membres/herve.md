@@ -1,3 +1,8 @@
+---
+layout: page
+title: Composition de l'équipe
+---
+
 ## Thèmes de recherche dans l'équipe [B2C](http://bit.ly/2JX99YK)
 - Etude de la production et de la régulation des métabolites secondaires dans les champignons.
 - Etude du rôle de ces métabolites secondaires dans la physiologie fongique
