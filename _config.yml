@@ -8,7 +8,7 @@ exclude:
   - Gemfile.lock
 
 # Theme
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
 
 # Set plugins
 plugins:
