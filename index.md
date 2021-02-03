@@ -4,7 +4,7 @@ title: Biologie et Biotechnologie des Champignons
 feature_image: "static/img/reseau.jpg"
 ---
 
-**Domaine d’expertise :**<br>
+**Domaines d’expertise :**<br>
 Génétique Moléculaire, Biologie Moléculaire, Analyse des Génomes, Biochimie, Microscopie, Mycologie, Physiologie Fongique
 
 ## Notre thématique en quelques mots
