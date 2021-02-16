@@ -44,6 +44,20 @@ Nous participons également à un projet visant à mener une **étude des systè
 
 **Collaborations :** Biologistes au LIED (F. Chapeland-Leclerc et G. Ruprich-Robert / notre équipe et R. Ferrari) ; Ingénieure CNRS/LIED en géomatique (C. Bobée) ; géographes au LIED (R. Houesse et C. Mering) et à Université Paris 13  (équipe Pléiade ;F. Alexandre); physiciens au LIED (L. Royon) ; chimiste à l’IPGP (Biogéochimie environnementale ; F. Prévôt).
 
+
+**Adaptation des Champignons à la contamination Radioactives par des Actinides**<br>
+Ce projet a pour objectif la compréhension de l’adaptation remarquable des champignons à un environnement fortement contaminant en étudiant la spéciation et l’impact des actinides (Am, U, Np, Pu) à différents degrés d’oxydation (+III, +IV, +V et +VI) lors des différentes étapes de leur développement. Le but est ainsi de mieux comprendre les processus biochimiques de transfert et d’accumulation des radioéléments par le biais de trois parties distinctes complémentaires : la mise en place d’un protocole de culture adapté aux contraintes de manipulation des actinides, l’étude de l’accumulation des actinides dans les champignons et enfin la localisation et la spéciation des actinides accumulés dans les champignons. 
+
+**Collaborations :** Biologistes au LIED (F. Chapeland-Leclerc et G. Ruprich-Robert) ; radiochimistes au Laboratoire de Physique des 2 infini Irène Joliot-Curie (IJCLab, UMR 9012), Université Paris -Saclay (M. Maloubier, C. Le Naour, Y. Pei); radiochimistes de l'Institut de Chimie (ICN, UMR 7272), Université Côte d'Azur (C. Den Auwer, G. Creff, A. Jeanson).
+
+
+**Etude des variations de la composition chimique et des activités antimalaria de deux exemplaires de *Terminalia albida* collectés dans des sites différents de Guinée** <br> 
+La disparité des lieux de récolte peut influencer la composition chimique d'une espèce végétale, ce qui pourrait affecter sa qualité et sa bioactivité. *Terminalia albida* est largement utilisée dans la médecine traditionnelle guinéenne dont l'activité contre la malaria a été validée *in vitro* et dans des modèles murins. Le présent travail a étudié les propriétés antipaludiques et la composition chimique de deux échantillons de *T. albida* prélevés dans différents endroits de Guinée. Nous avons contribué à la caractérisation moléculaire des deux exemplaires.
+
+**Collaborations :** Biologistes au LIED (F. Chapeland-Leclerc et G. Ruprich-Robert) ; chimistes du laboratoire de pharmacochimie et biologie pour le développement (UMR 152) IRD et l'Université Paul Sabatier Toulouse 3 (A. Camara, A. Aubouy).
+
+
+
 ## Financements
 
 - Bourse Labex Mathématique Hadamard (2018) : accueil pendant 6 mois d’une mathématicienne dans l’équipe.
