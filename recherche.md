@@ -28,6 +28,7 @@ Cet axe de recherche est porté via une association interdisciplinaire entre des
 
 Au sein du Lied nous participons également à d’autres projets interdisciplinaires, en lien avec les sciences sociales et humaines.
 
+
 **Méthanisation :**<br>
 Nous avons initié des travaux dans le domaine de la **valorisation du processus de méthanisation** selon plusieurs approches :
 
@@ -39,19 +40,21 @@ Nous faisons ainsi partie du réseau MetSHS.
 
 **Collaborations :** Biologistes au LIED (F. Chapeland-Leclerc et G. Ruprich-Robert / notre équipe et S. Brun) ; APESA (Association pour l’Environnement et la Sécurité en Aquitaine ; Florian Monlau) ; économistes au LIED (S. Issehnane), au LADYSS (Université Paris Diderot ; P. Grouiez) et à l’Université de Rennes (A. Berthe) ; géographe au LIED (N. Delbart) ; chimiste à l’IPGP (F. Prévôt).
 
+
 **Impacts Socio-environnementaux des nouvelles pratiques Agraires au nord Bénin :**<br>
 Nous participons également à un projet visant à mener une **étude des systèmes agricoles du nord du Bénin** en termes de durabilité de ces systèmes sur le plan environnemental, sanitaire et socio-économique. Ce projet est porté par P. Chatzimpiros (socio-écologue au LIED). Les recherches proposées se décomposent en deux volets. Le premier concerne le **diagnostic** : l’étude se déroulera à l’échelle micro-régionale au niveau des deux communes, représentatives de deux états contrastés de systèmes agricoles du nord Bénin. Outre un état du couvert végétal, des prélèvements de sols et d’eau seront réalisés in situ pour être analysés en laboratoire. En parallèle, un suivi par télédétection des dynamiques de végétation offrira une vision régionale et à plus long terme des changements de pratiques survenus au cours de ces 20 dernières années. A l’échelle des finages villageois des deux communes cibles, une réflexion sera menée sur les pratiques agro-écologiques ; elle se basera sur des enquêtes participatives auprès des villageois qui viseront à coupler les résultats des analyses bio-physicochimiques avec la perception des changements en cours et les stratégies adoptées face à ces changements. Le second volet vise à proposer des **solutions pour la gestion des sols agricoles et des alternatives à l’emploi de pesticides**, mais également pour **améliorer la santé des populations touchées par la pollution des eaux**. En effet, l’analyse des échantillons de sols et la détection des phytopathogènes permettront de dresser un état de la santé des sols, et de faire des propositions concertées de mutations des pratiques agricoles. D’autre part, dans les territoires fortement impactés par la pollution des eaux (cf. diagnostic), l’analyse des enquêtes participatives auprès des villageois aideront à déterminer les lieux cibles où, d’une part, l’accès à l’eau, et en particulier à l’accès à l’eau potable, est un véritable problème et où, d’autre part, l’acceptabilité sociale pour l’implantation d’une technologie innovante (technologie déjà implantée dans d’autres régions du monde par les chercheur du projet) pour pallier ce problème est forte.
 
 **Collaborations :** Biologistes au LIED (F. Chapeland-Leclerc et G. Ruprich-Robert / notre équipe et R. Ferrari) ; Ingénieure CNRS/LIED en géomatique (C. Bobée) ; géographes au LIED (R. Houesse et C. Mering) et à Université Paris 13  (équipe Pléiade ;F. Alexandre); physiciens au LIED (L. Royon) ; chimiste à l’IPGP (Biogéochimie environnementale ; F. Prévôt).
 
 
-**Adaptation des Champignons à la contamination Radioactives par des Actinides**<br>
+
+**Adaptation des Champignons à la contamination Radioactives par des Actinides :**<br>
 Ce projet a pour objectif la compréhension de l’adaptation remarquable des champignons à un environnement fortement contaminant en étudiant la spéciation et l’impact des actinides (Am, U, Np, Pu) à différents degrés d’oxydation (+III, +IV, +V et +VI) lors des différentes étapes de leur développement. Le but est ainsi de mieux comprendre les processus biochimiques de transfert et d’accumulation des radioéléments par le biais de trois parties distinctes complémentaires : la mise en place d’un protocole de culture adapté aux contraintes de manipulation des actinides, l’étude de l’accumulation des actinides dans les champignons et enfin la localisation et la spéciation des actinides accumulés dans les champignons. 
 
 **Collaborations :** Biologistes au LIED (F. Chapeland-Leclerc et G. Ruprich-Robert) ; radiochimistes au Laboratoire de Physique des 2 infini Irène Joliot-Curie (IJCLab, UMR 9012), Université Paris -Saclay (M. Maloubier, C. Le Naour, Y. Pei); radiochimistes de l'Institut de Chimie (ICN, UMR 7272), Université Côte d'Azur (C. Den Auwer, G. Creff, A. Jeanson).
 
 
-**Etude des variations de la composition chimique et des activités antimalaria de deux exemplaires de *Terminalia albida* collectés dans des sites différents de Guinée** <br> 
+**Etude des activités antimalaria de *Terminalia albida* :** <br> 
 La disparité des lieux de récolte peut influencer la composition chimique d'une espèce végétale, ce qui pourrait affecter sa qualité et sa bioactivité. *Terminalia albida* est largement utilisée dans la médecine traditionnelle guinéenne dont l'activité contre la malaria a été validée *in vitro* et dans des modèles murins. Le présent travail a étudié les propriétés antipaludiques et la composition chimique de deux échantillons de *T. albida* prélevés dans différents endroits de Guinée. Nous avons contribué à la caractérisation moléculaire des deux exemplaires.
 
 **Collaborations :** Biologistes au LIED (F. Chapeland-Leclerc et G. Ruprich-Robert) ; chimistes du laboratoire de pharmacochimie et biologie pour le développement (UMR 152) IRD et l'Université Paul Sabatier Toulouse 3 (A. Camara, A. Aubouy).
