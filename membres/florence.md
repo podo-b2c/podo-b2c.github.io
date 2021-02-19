@@ -8,6 +8,7 @@ Maître de Conférences HDR (Université de Paris)<br>
 [florence.leclerc@u-paris.fr](mailto:florence.leclerc@u-paris.fr)
 ![FL2](/static/img/FL2.jpg)
 
+
 Laboratoire Interdisciplinaire des Energies de Demain - LIED UMR 8236<br>
 Faculté des Sciences - Université de Paris<br>
 Bâtiment Lamarck B - 35 rue Hélène Brion - 75205 Paris cedex 13 – Tel : 01 57 27 84 60<br>
