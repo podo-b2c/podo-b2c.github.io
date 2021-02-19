@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thèmes de recherche
-feature_image: "../static/img/reseau.jpg"
+feature_image: "../static/img/ReseauBis.jpg"
 ---
 
 ## I- Les métabolites secondaires fongiques
