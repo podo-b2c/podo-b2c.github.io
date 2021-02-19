@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Composition de l'équipe
+feature_image: "GRR.jpg"
 ---
 
 Gwenaël Ruprich-Robert<br>
