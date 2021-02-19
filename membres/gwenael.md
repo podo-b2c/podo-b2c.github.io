@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Composition de l'équipe
-feature_image: "/static/img/GRR.jpg"
 ---
 
 Gwenaël Ruprich-Robert<br>
 Maître de Conférences HDR (Université de Paris)<br>
 [gwenael.ruprich-robert@u-paris.fr](mailto:gwenael.ruprich-robert@u-paris.fr)
+
+![GRR](/static/img/GRR.jpg)
 
 Laboratoire Interdisciplinaire des Energies de Demain<br>
 Faculté des Sciences - Université de Paris<br>
