@@ -7,13 +7,14 @@ Florence Chapeland-Leclerc<br>
 Maître de Conférences HDR (Université de Paris)<br>
 [florence.leclerc@u-paris.fr](mailto:florence.leclerc@u-paris.fr)
 
-Laboratoire Interdisciplinaire des Energies de Demain<br>
+Laboratoire Interdisciplinaire des Energies de Demain - LIED UMR 8236<br>
 Faculté des Sciences - Université de Paris<br>
-LIED UMR 8236 – Bâtiment Lamarck B - 35 rue Hélène Brion - 75205 Paris cedex 13 – Tel : 01 57 27 84 60<br>
+Bâtiment Lamarck B - 35 rue Hélène Brion - 75205 Paris cedex 13 – Tel : 01 57 27 84 60<br>
 Et<br>
 Faculté de Pharmacie de Paris<br>
+Service d'enseignement de Pharmacognosie et Biologie Végétale<br>
 Faculté de Santé - Université de Paris<br>
-Service d'enseignement de Pharmacognosie et Biologie Végétale - 4, avenue de l'Observatoire - 75006 Paris - Tel : 01 53 73 98 10
+4 avenue de l'Observatoire - 75006 Paris - Tel : 01 53 73 98 10
 
 ## Thèmes de recherche principaux
 
