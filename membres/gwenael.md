@@ -5,7 +5,7 @@ feature_image: "GRR.jpg"
 ---
 
 Gwenaël Ruprich-Robert<br>
-Maître de Conférences HDR (Université Paris Descartes)<br>
+Maître de Conférences HDR (Université de Paris)<br>
 [gwenael.ruprich-robert@u-paris.fr](mailto:gwenael.ruprich-robert@u-paris.fr)
 
 Laboratoire Interdisciplinaire des Energies de Demain<br>
@@ -18,12 +18,17 @@ Faculté de Santé - Université de Paris<br>
 Service d'enseignement de Pharmacognosie et Biologie Végétale <br>
 4, avenue de l'Observatoire - 75006 Paris - Tel : 01 53 73 98 10
 
-Au sein de l’équipe Biologie et Biotechnologie des champignons au LIED, je m’intéresse à l’impact des champignons dans la santé des sols. Mes recherches s’orientent autour de trois axes :
+Au sein de l’équipe Biologie et Biotechnologie des champignons au LIED, je m’intéresse à l’impact des champignons dans la santé des sols. Mes recherches s’orientent autour de plusieurs axes :
 
--	Caractérisation des métabolites secondaires chez le champignon modèle Podospora anserina : étude de leur rôle dans le cycle de développement du champignon et dans ses interactions avec les autres organismes - identification de molécules présentant un intérêt industriel, énergétique mais également thérapeutique.
--	Étude de la mise en place de réseaux d’hyphes permettant une colonisation efficace.
--	Apport des champignons dans les processus de méthanisation.
--	Etude de l’impact des champignons
+-	**Caractérisation des métabolites secondaires chez le champignon modèle *Podospora anserina* :** étude de leur rôle dans le cycle de développement du champignon et dans ses interactions avec les autres organismes - identification de molécules présentant un intérêt industriel, énergétique mais également thérapeutique.
+-	Étude de la mise en place de **réseaux d’hyphes** permettant une colonisation efficace.
+-	Apport des **champignons** dans les processus de **méthanisation**.
+-	Impacts Socio-environnementaux des nouvelles pratiques Agraires au nord Bénin
+-	Adaptation des Champignons à la contamination Radioactives par des **Actinides**
+-	Etude des activités antimalaria de *Terminalia albida*
+
+
+
 
 ## Financements
 
