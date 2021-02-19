@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biologie et Biotechnologie des Champignons
-feature_image: "static/img/reseau.jpg"
+feature_image: "static/img/ReseauBis.jpg"
 ---
 
 **Domaines d’expertise :**<br>
