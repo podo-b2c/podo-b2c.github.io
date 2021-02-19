@@ -51,10 +51,10 @@ Botanique et mycologie
 
 ## Responsabilités collectives
 
-- Depuis 2015, membre nommé du Conseil de Laboratoire du LIED
 - 2015-2019, membre élu du Conseil d’Administration de l’Université Paris Descartes
-- Depuis 2017, membre élu du Conseil de Gestion de la Faculté de Pharmacie, Université Paris Descartes
-- Depuis 2019, membre élue du Conseil de la faculté de Santé et du Sénat académique de l’Université de Paris.
+- Depuis 2015, membre nommé du Conseil de Laboratoire du LIED
+- Depuis 2017, membre élu du Conseil d'UFR de la Faculté de Pharmacie
+- Depuis 2019, membre élue du Conseil de la Faculté de Santé et du Sénat académique de l’Université de Paris
 
 ## Bibliographie
 
