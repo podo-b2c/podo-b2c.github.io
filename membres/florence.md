@@ -17,11 +17,11 @@ Service d'enseignement de Pharmacognosie et Biologie Végétale - 4, avenue de l
 
 ## Thèmes de recherche principaux
 
-Le projet général de l’équipe est de comprendre comment les champignons, notamment le champignon modèle Podospora<it> anserina<it>, se développent de façon efficace dans un environnement compétitif. Le projet s’articule autour de deux axes bien définis.
+Le projet général de l’équipe est de comprendre comment les champignons, notamment le champignon modèle *Podospora anserina*, se développent de façon efficace dans un environnement compétitif. Le projet s’articule autour de deux axes bien définis.
 
-- Le premier axe de recherche concerne la caractérisation des métabolites<br> secondaires<br> chez les champignons filamenteux et vise à mieux comprendre les relations inter-espèces du microbiome du sol en lien avec la production des métabolites secondaires. 
+- Le premier axe de recherche concerne la caractérisation des métabolites secondaires chez les champignons filamenteux et vise à mieux comprendre les relations inter-espèces du microbiome du sol en lien avec la production des métabolites secondaires. 
 
-- Le second axe de recherche est de mieux comprendre comment les champignons explorent leur environnement immédiat grâce à leurs hyphes en croissance qui forment un réseau<br> fongique<br>. Au-delà de l’analyse quantitative des données obtenues sur ces réseaux, l’objectif est de proposer une modélisation robuste de la croissance des hyphes fongiques dans différentes conditions.
+- Le second axe de recherche est de mieux comprendre comment les champignons explorent leur environnement immédiat grâce à leurs hyphes en croissance qui forment un réseau fongique. Au-delà de l’analyse quantitative des données obtenues sur ces réseaux, l’objectif est de proposer une modélisation robuste de la croissance des hyphes fongiques dans différentes conditions.
 
 ## Autres activités de recherche
 
