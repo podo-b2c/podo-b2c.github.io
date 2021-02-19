@@ -26,6 +26,6 @@ feature_image: "../static/img/ReseauBis.jpg"
 
 - Insaf ESSADIK (bourse doctorale MTCI, 2016-2019/direction : G. Ruprich-Robert)
 
-## 
+## Trombinoscope
 
 ![Equipe](/static/img/Equipe.jpg)
