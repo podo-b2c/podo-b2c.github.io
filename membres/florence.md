@@ -11,7 +11,7 @@ Laboratoire Interdisciplinaire des Energies de Demain<br>
 Faculté des Sciences - Université de Paris<br>
 LIED UMR 8236 – Bâtiment Lamarck B - 35 rue Hélène Brion - 75205 Paris cedex 13 – Tel : 01 57 27 84 60<br>
 Et<br>
-UFR Pharmacie<br>
+Faculté de Pharmacie de Paris<br>
 Faculté de Santé - Université de Paris<br>
 Service d'enseignement de Pharmacognosie et Biologie Végétale - 4, avenue de l'Observatoire - 75006 Paris - Tel : 01 53 73 98 10
 
