@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-feature_image: "../static/img/reseau.jpg"
+feature_image: "../static/img/ReseauBis.jpg"
 ---
 
 ## Production Scientifique de l’équipe depuis 2013
