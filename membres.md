@@ -28,3 +28,4 @@ feature_image: "../static/img/ReseauBis.jpg"
 
 ## 
 
+![Equipe](/static/img/Equipe.jpg)
