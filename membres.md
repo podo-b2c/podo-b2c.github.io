@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Composition de l'équipe
-feature_image: "../static/img/reseau.jpg"
+feature_image: "../static/img/ReseauBis.jpg"
 ---
 
 ## Equipe actuelle
