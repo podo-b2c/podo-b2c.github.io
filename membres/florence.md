@@ -6,7 +6,7 @@ title: Composition de l'équipe
 Florence Chapeland-Leclerc<br>
 Maître de Conférences HDR (Université de Paris)<br>
 [florence.leclerc@u-paris.fr](mailto:florence.leclerc@u-paris.fr)
-![FL](/static/img/photomaton Flo.jpg)
+![photomaton Flo](/static/img/photomaton Flo.jpg)
 
 Laboratoire Interdisciplinaire des Energies de Demain - LIED UMR 8236<br>
 Faculté des Sciences - Université de Paris<br>
