@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participation à la formation
-feature_image: "../static/img/reseau.jpg"
+feature_image: "../static/img/ReseauBis.jpg"
 ---
 
 wip
