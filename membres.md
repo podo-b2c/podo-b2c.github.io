@@ -10,7 +10,7 @@ feature_image: "../static/img/ReseauBis.jpg"
   [CV court](/membres/florence)
 - [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr), Maître de Conférences HDR (Université de Paris)
   [CV court](/membres/gwenael)
-- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr), Maître de Conférences
+- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr), Maître de Conférences HDR (Université de Paris)
   [CV court](/membres/herve)
 - [Eva Cabet](mailto:eva.cabet@u-paris.fr), Ingénieure de recherche
   [CV court](/membres/eva)
@@ -26,7 +26,7 @@ feature_image: "../static/img/ReseauBis.jpg"
 ## Anciens membres
 
 - Insaf ESSADIK (bourse doctorale MTCI, 2016-2019/direction : G. Ruprich-Robert)
-- [Ling SHEN](mailto:shen89101@163.com) (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
+- Ling SHEN (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
 
 ## Trombinoscope
 
