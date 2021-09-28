@@ -19,12 +19,14 @@ feature_image: "../static/img/ReseauBis.jpg"
 ## Doctorants
 
 - [Clara Ledoux](mailto:claraaledoux@gmail.com) (bourse doctorale MTCI, 2019-2022/co-direction B2C/DYCO: F. Chapeland-Leclerc/E. Herbert)
-- [Ling SHEN](mailto:shen89101@163.com) (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
 - [Huijuan WANG](mailto:wanghuijuan120508@gmail.com) (bourse CSC, 2019-2023/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
+- [Xiaoyue Peng](mailto:pengxiaoyue1996@foxmail.com) (bourse CSC, 2021-2025/co-direction : G. Ruprich-Robert/E. Cabet)
+- [Thibault Chassereau](mailto:) (bourse doctorale ANR, 2011-2024/co-direction B2C/DYCO: F. Chapeland-Leclerc/E. Herbert)
 
 ## Anciens membres
 
 - Insaf ESSADIK (bourse doctorale MTCI, 2016-2019/direction : G. Ruprich-Robert)
+- [Ling SHEN](mailto:shen89101@163.com) (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
 
 ## Trombinoscope
 
