@@ -30,4 +30,4 @@ feature_image: "../static/img/ReseauBis.jpg"
 
 ## Trombinoscope
 
-![Equipe](/static/img/Trombinoscope.png)
+![Equipe](/static/img/Trombinoscope2.png)
