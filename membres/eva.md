@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Composition de l'équipe
+title: Eva Cabet
 ---
 
-Eva Cabet<br>
 Ingénieure de recherche<br>
 [eva.cabet@u-paris.fr](mailto:eva.cabet@u-paris.fr)
 

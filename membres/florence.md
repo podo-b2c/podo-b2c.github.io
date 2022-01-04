@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Composition de l'équipe
+title: Florence Chapeland-Leclerc
 ---
 
-Florence Chapeland-Leclerc<br>
 Maître de Conférences HDR (Université de Paris)<br>
 [florence.leclerc@u-paris.fr](mailto:florence.leclerc@u-paris.fr)
 
@@ -21,7 +20,7 @@ Faculté de Santé - Université de Paris<br>
 
 Le projet général de l’équipe est de comprendre comment les champignons, notamment le champignon modèle *Podospora anserina*, se développent de façon efficace dans un environnement compétitif. Le projet s’articule autour de deux axes bien définis.
 
-- Le premier axe de recherche concerne la caractérisation des **métabolites secondaires** chez les champignons filamenteux et vise à mieux comprendre les relations inter-espèces du microbiome du sol en lien avec la production des métabolites secondaires. 
+- Le premier axe de recherche concerne la caractérisation des **métabolites secondaires** chez les champignons filamenteux et vise à mieux comprendre les relations inter-espèces du microbiome du sol en lien avec la production des métabolites secondaires.
 
 - Le second axe de recherche est de mieux comprendre comment les champignons explorent leur environnement immédiat grâce à leurs hyphes en croissance qui forment un **réseau fongique**. Au-delà de l’analyse quantitative des données obtenues sur ces réseaux, l’objectif est de proposer une modélisation robuste de la croissance des hyphes fongiques dans différentes conditions.
 

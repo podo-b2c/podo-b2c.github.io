@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Composition de l'équipe
+title: Gwenaël Ruprich-Robert
 ---
 
-Gwenaël Ruprich-Robert<br>
 Maître de Conférences HDR (Université de Paris)<br>
 [gwenael.ruprich-robert@u-paris.fr](mailto:gwenael.ruprich-robert@u-paris.fr)
 
