@@ -28,7 +28,7 @@ description: Biologie et Biotechnologie des Champignons
 url: https://podo-b2c.github.io
 baseurl: ""
 lang: fr-FR
-logo: "/assets/logos/univ-paris.jpg"
+logo: "/assets/logos/logo-combine-2022.jpg"
 # google_analytics:    'UA-XXXXXXXX-1'
 
 favicons:
@@ -52,7 +52,6 @@ navigation_header:
     url: /recherche/
   - title: Publications
     url: /publications/
-
 
 # Footer nav
 navigation_footer:
