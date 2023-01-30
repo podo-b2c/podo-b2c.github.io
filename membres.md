@@ -6,13 +6,13 @@ feature_image: "../static/img/ReseauBis.jpg"
 
 ## Equipe actuelle
 
-- [Florence Chapeland-Leclerc](mailto:florence.leclerc@parisdescartes.fr), Maître de Conférences HDR (Université de Paris)
+- [Florence Chapeland-Leclerc](mailto:florence.leclerc@parisdescartes.fr), Maître de Conférences HDR (Université Paris Cité)
   [CV court](/membres/florence)
-- [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr), Maître de Conférences HDR (Université de Paris)
+- [Gwenaël Ruprich-Robert](mailto:gwenael.ruprich@u-paris.fr), Maître de Conférences HDR (Université Paris Cité)
   [CV court](/membres/gwenael)
-- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr), Maître de Conférences HDR (Université de Paris)
+- [Hervé Lalucque](mailto:herve.lalucque@univ-paris-diderot.fr), Maître de Conférences HDR (Université Paris Cité)
   [CV court](/membres/herve)
-- [Eva Cabet](mailto:eva.cabet@u-paris.fr), Ingénieure de recherche
+- [Eva Cabet](mailto:eva.cabet@u-paris.fr), Ingénieure de recherche (Université Paris Cité)
   [CV court](/membres/eva)
 
 
@@ -26,7 +26,8 @@ feature_image: "../static/img/ReseauBis.jpg"
 ## Anciens membres
 
 - Insaf ESSADIK (bourse doctorale MTCI, 2016-2019/direction : G. Ruprich-Robert)
-- Ling SHEN (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc/G. Ruprich-Robert)
+- Ling SHEN (bourse CSC, 2016-2020/co-direction : F. Chapeland-Leclerc / G. Ruprich-Robert)
+- Yang Pei (bourse CSC, 2019-2022/co-encadrement : E. Cabet (B2C) / Melody Maloubier (IJCLab/Pôle Energie & Environnement, Université Paris Saclay) 
 
 ## Trombinoscope
 
