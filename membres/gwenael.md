@@ -3,7 +3,7 @@ layout: page
 title: Gwenaël Ruprich-Robert
 ---
 
-Maître de Conférences HDR (Université de Paris)<br>
+Maître de Conférences HDR (Université de Paris Cité)<br>
 [gwenael.ruprich-robert@u-paris.fr](mailto:gwenael.ruprich-robert@u-paris.fr)
 
 ![GRR](/static/img/GRR.jpg)
@@ -22,8 +22,7 @@ Au sein de l’équipe Biologie et Biotechnologie des champignons au LIED, je m�
 
 -	**Caractérisation des métabolites secondaires chez le champignon modèle *Podospora anserina* :** étude de leur rôle dans le cycle de développement du champignon et dans ses interactions avec les autres organismes - identification de molécules présentant un intérêt industriel, énergétique mais également thérapeutique.
 -	Étude de la mise en place de **réseaux d’hyphes** permettant une colonisation efficace.
--	Apport des **champignons** dans les processus de **méthanisation**.
--	Impacts Socio-environnementaux des nouvelles pratiques Agraires au nord Bénin
+-	Apport des **champignons** dans les processus de **méthanisation**
 -	Adaptation des Champignons à la contamination Radioactives par des **Actinides**
 -	Etude des activités antimalaria de *Terminalia albida*
 
@@ -41,6 +40,8 @@ Au sein de l’équipe Biologie et Biotechnologie des champignons au LIED, je m�
 - INSIS CNRS AAP Ingénierie inspirée par la Nature « PhysNet » (2020) 11 600€
 - Renouvellement CNRS Défi Modélisation du Vivant (2020) 11 300€
 - Idex AAP Emergence « ANFIPA » (2021-22) 48 000€
+- ANR « NEMATIC » (2021-2025) ANR-21-CE40010-01 367 000€
+- Idex AAP Emergence « NADESGENE » (2022-23) 50 000€
 
 ## Enseignements
 
